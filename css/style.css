@@ -1,0 +1,9 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.container{
+    background-color: red;
+    width:200px;
+    height:200px;
+}
